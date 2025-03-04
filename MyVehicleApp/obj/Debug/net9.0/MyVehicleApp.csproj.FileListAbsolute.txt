@@ -1,0 +1,15 @@
+D:\Code\clone repos git\test-1\MyVehicleApp\obj\Debug\net9.0\MyVehicleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\clone repos git\test-1\MyVehicleApp\obj\Debug\net9.0\MyVehicleApp.AssemblyInfoInputs.cache
+D:\Code\clone repos git\test-1\MyVehicleApp\obj\Debug\net9.0\MyVehicleApp.AssemblyInfo.cs
+D:\Code\clone repos git\test-1\MyVehicleApp\obj\Debug\net9.0\MyVehicleApp.csproj.CoreCompileInputs.cache
+D:\Code\clone repos git\test-1\MyVehicleApp\obj\Debug\net9.0\MyVehicleApp.sourcelink.json
+D:\Code\clone repos git\test-1\MyVehicleApp\bin\Debug\net9.0\MyVehicleApp.exe
+D:\Code\clone repos git\test-1\MyVehicleApp\bin\Debug\net9.0\MyVehicleApp.deps.json
+D:\Code\clone repos git\test-1\MyVehicleApp\bin\Debug\net9.0\MyVehicleApp.runtimeconfig.json
+D:\Code\clone repos git\test-1\MyVehicleApp\bin\Debug\net9.0\MyVehicleApp.dll
+D:\Code\clone repos git\test-1\MyVehicleApp\bin\Debug\net9.0\MyVehicleApp.pdb
+D:\Code\clone repos git\test-1\MyVehicleApp\obj\Debug\net9.0\MyVehicleApp.dll
+D:\Code\clone repos git\test-1\MyVehicleApp\obj\Debug\net9.0\refint\MyVehicleApp.dll
+D:\Code\clone repos git\test-1\MyVehicleApp\obj\Debug\net9.0\MyVehicleApp.pdb
+D:\Code\clone repos git\test-1\MyVehicleApp\obj\Debug\net9.0\MyVehicleApp.genruntimeconfig.cache
+D:\Code\clone repos git\test-1\MyVehicleApp\obj\Debug\net9.0\ref\MyVehicleApp.dll
